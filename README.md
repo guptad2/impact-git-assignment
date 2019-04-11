@@ -2,7 +2,7 @@
 
 Hi Everyone,
 
-In order to apply for a tech-position. You all are required to complete this small assignment which uses git.
+In order to apply for a tech-position at Impact++. You all are required to complete this small assignment which uses git.
 The instructions are simple:
 
 1) Clone the repo
