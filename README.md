@@ -15,6 +15,9 @@ The instructions are simple:
 This assignment lacks detailed steps on purpose since we want you to be able learn small tasks independently. If you don't understand git, here is a helpful youtube tutorial https://www.youtube.com/watch?v=Y9XZQO1n_7c
 
 
+EDIT: You don't have to change master.txt anymore. 
+
+
 
 
 
