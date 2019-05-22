@@ -8,10 +8,8 @@ The instructions are simple:
 1) Fork the repository
 2) Create your branch (checking out from master)
 3) Create a file named [first-name.txt] to your branch that contains your email
-4) Edit the file master.txt
 5) Push your branch and create a pull request
 6) Wait for approval
-7) You will see merge conflicts
 8) Merge your branch
 
 This assignment lacks detailed steps on purpose since we want you to be able learn small tasks independently. If you don't understand git, here is a helpful youtube tutorial https://www.youtube.com/watch?v=Y9XZQO1n_7c
